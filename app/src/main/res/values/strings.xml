@@ -1,0 +1,9 @@
+<resources>
+   <string name="app_name">Loan Calculator</string>
+   <string name="enter_amount">Loan Amount</string>
+   <string name="tip_percentage">15%</string>
+   <string name="tip">Tip</string>
+   <string name="total">Payment</string>
+   <string name="interest_rate">Interest Rate</string>
+   <string name="months">Term in Months</string>
+</resources>
